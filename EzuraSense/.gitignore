@@ -1,0 +1,28 @@
+.venv/
+node_modules/
+.expo/
+dist/
+build/
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# AI models
+
+*.pt
+
+# images
+
+*.jpg
+*.png
+
+# system
+
+.DS_Store
+Thumbs.db
+
+# logs
+
+npm-debug.log
+yarn-error.log
